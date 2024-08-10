@@ -42,7 +42,7 @@ Vagrant.configure("2") do |config|
      vb.memory = "800"
    end
    end
-   
+  
   
 ### Nginx VM ###
   config.vm.define "web01" do |web01|
