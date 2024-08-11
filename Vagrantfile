@@ -21,7 +21,7 @@ Vagrant.configure("2") do |config|
     mc01.vm.provider "virtualbox" do |vb|
      vb.memory = "600"
    end
-  end
+  end 
   
 ### RabbitMQ vm  ####
   config.vm.define "rmq01" do |rmq01|
