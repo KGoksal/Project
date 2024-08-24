@@ -1,6 +1,5 @@
 # Vagrant Configuration Summary
 
-
 ## Overview
 
 Vagrant is primarily used for creating and managing virtualized development environments, which can be either on-premises or in the cloud. Here's how it fits into different scenarios:
