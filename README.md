@@ -35,7 +35,6 @@ While Vagrant is frequently used for on-premises purposes, such as local develop
 
 
 
-
 ## VM Configurations
 This Vagrant configuration script sets up multiple virtual machines using VirtualBox. It utilizes the Hostmanager plugin to manage `/etc/hosts` entries for the VMs.
 
