@@ -34,7 +34,6 @@ Vagrant is primarily used for creating and managing virtualized development envi
 While Vagrant is frequently used for on-premises purposes, such as local development and internal testing, it is also highly effective for integrating with cloud-based infrastructure. It provides flexibility for both on-premises and cloud environments, making it a versatile tool for managing virtualized setups regardless of where they are hosted.
 
 
-
 ## VM Configurations
 This Vagrant configuration script sets up multiple virtual machines using VirtualBox. It utilizes the Hostmanager plugin to manage `/etc/hosts` entries for the VMs.
 
